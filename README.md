@@ -53,7 +53,3 @@ Then you can move the binary file to `/bin` and therefore run it from your termi
    <your-script-name>
    ```
 
-7. Run your script!
-```bash
-<your-executable-name>
-```
